@@ -1306,6 +1306,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 * [magenta/magenta](https://github.com/magenta/magenta): Magenta's official GitHub repository
 * [AI Image to sound [Melobytes.com]](https://melobytes.com/en/app/ai_image2sound)
 * [archinetai/audio-diffusion-pytorch](https://github.com/archinetai/audio-diffusion-pytorch): Audio generation using diffusion models, in PyTorch
+* [MuseGen](https://musegen.org): An AI music studio for lyric writing and song generation, built for creators
 
 # Speech
 
